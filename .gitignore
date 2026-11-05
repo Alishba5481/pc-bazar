@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Flutter / Android
+build/
+.dart_tool/
+local.properties
+
+# Secrets
+.env
+key.properties
+*.jks
+*.keystore
+google-services.json
